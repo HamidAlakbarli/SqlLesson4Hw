@@ -18,7 +18,7 @@ Insert into Books Values
 ('Vahana Masterclass',120,5),
 ('Right Under Our Nose',440,6),
 ('The Little Book of Encouragement',320,7),
-('Beautiful Things’ A Memoir',201,8),
+('Beautiful Thingsâ€™ A Memoir',201,8),
 ('The Christmas Pig',310,9)
 Create Table Authors
 (
@@ -112,16 +112,3 @@ Select * From  usv_GetIDNamePageCountFullName
 	delete from Authors Where id = @id 
 	End
 	End
-
-
- 
- 
-  
-
-
-
-
-
-	
-
-
